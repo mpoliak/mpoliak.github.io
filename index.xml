@@ -5,7 +5,11 @@
     <link>/</link>
     <description>Recent content on Moshe Poliak</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Contact</title>
       <link>/contact/</link>
@@ -30,9 +34,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/publications/</guid>
-      <description>Journal Publications (work in progress :-) )
-Posters &amp;amp; Abstracts Chen, A.*, Hofer, M.*, Poliak, M., Zaslavsky, N., &amp;amp; Levy R. (2022). The emergence of discrete and systematic communication in a continuous signal–meaning space. Poster at the 44 Annual Meeting of Cognitive Science Society (CogSci).
-Poliak, M., Ryskin, R., Braginsky, M., &amp;amp; Gibson, E. (2022). Effects of the structural prior on noisy-channel inference: evidence from Russian. Poster at the 35th Annual Conference in Human Sentence Processing.</description>
+      <description>Journal Publications Poliak, M., Ryskin, R., Braginsky, M., &amp;amp; Gibson, E. (2023). It is not what you say but how you say it: Evidence from Russian shows robust effects of the structural prior on noisy channel inferences. Journal of Experimental Psychology: Learning, Memory, and Cognition.
+Posters &amp;amp; Abstracts Chen, A.*, Hofer, M.*, Poliak, M., Zaslavsky, N., &amp;amp; Levy R. (2022). The emergence of discrete and systematic communication in a continuous signal–meaning space.</description>
     </item>
     
     <item>
