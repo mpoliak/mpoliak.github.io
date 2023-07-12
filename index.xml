@@ -5,18 +5,14 @@
     <link>/</link>
     <description>Recent content on Moshe Poliak</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
       <link>/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/contact/</guid>
-      <description>Email: moshepol[at]mit[dot]edu Twitter LinkedIn  Fun Fact:  Some words are regular travelers, going on vacation abroad and returning with a new accent. Consider the Arabic dār al-ṣināʿa (literally, house of manufacture; a factory). It was borrowed into Latin around the middle of the previous millenium as arsana, eventually becoming the word we know in English as arsenal. Not quite a place of production, but a place for storage of weapons (&amp;ldquo;arsenal, n.</description>
+      <description>Email: moshepol[at]mit[dot]edu Twitter LinkedIn  A Thought about Language in Society:  Language is a strong marker of identity. We love talking about who in the US says &amp;ldquo;pop&amp;rdquo; and who says &amp;ldquo;soda.&amp;rdquo; We also immediately pick out who has an American accent and who has a foreign accent (and then, regrettably, give out jobs based on the accent&amp;rsquo;s prestige¹). One astonishing study showed that, while children usually prefer to play with same-race children, given the choice of playing with an other-race kid with a native accent or a same-race kid with a foreign accent, children chose to play with the other-race kid with the native accent².</description>
     </item>
     
     <item>
@@ -25,7 +21,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>I am a PhD student in Brain and Cognitive Sciences at MIT. My advisor is Ted Gibson, which means that I am a very lucky person. I study psycholinguistics, or what processes in the mind are involed in language production and comprehension. Specifically, I study how we use non-lexical properties of language in comprehension and production. Using the noisy channel framework, I investigate how expectations about the formof the utterance affects how we interpret it.</description>
+      <description>I am a PhD student in Brain and Cognitive Sciences at MIT. My advisor is Ted Gibson, which means that I am a very lucky person. I study psycholinguistics, or what processes in the mind are involved in language production and comprehension. Using the noisy channel framework, I investigate how our expectations shape how we perceive language; in other words, I study why we hear what we want to hear.</description>
     </item>
     
     <item>
